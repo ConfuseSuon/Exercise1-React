@@ -1,0 +1,14 @@
+button {
+  margin: 10px 10px;
+}
+
+ul {
+  /* border: 2px solid red; */
+  list-style: none;
+  display: flex;
+  width: 50%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
